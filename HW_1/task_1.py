@@ -27,3 +27,4 @@
 #     summa = summa + digit
 #     n = n // 10
 # print (summa)
+# 
